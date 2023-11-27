@@ -17,7 +17,7 @@ classifiers = [
 ],   
 include_package_data=True,
 entry_points = {'console_scripts': [
-    'clean_folder = clean_folder.clean:main']}
+    'clean-folder = clean_folder.clean:main']}
 )
 
 
